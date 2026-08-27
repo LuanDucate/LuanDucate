@@ -30,8 +30,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🎮 [**Ducz.GameEngine**](https://github.com/LuanDucate/Ducz.GameEngine) | Build simple 3D maps fast, texture them with a right-click, export as GLB | C# |
-| 🧍 [**Ducz.CharacterCreator**](https://github.com/LuanDucate/Ducz.CharacterCreator) | Low-poly modular character builder (Quaternius packs) | JavaScript / Three.js |
+| 🎮 [**Ducz.GameEngine**](https://luanducate.github.io/Ducz.GameEngine/) | Build simple 3D maps fast, texture them with a right-click, export as GLB | C# |
+| 🧍 [**Ducz.CharacterCreator**](https://luanducate.github.io/Ducz.CharacterCreator/) | Low-poly modular character builder (Quaternius packs) | JavaScript / Three.js |
 | 🖥️ [**Ducz.LocalConnect**](https://github.com/LuanDucate/Ducz.LocalConnect) | Remote desktop between two machines on the same local network | C# / Windows |
 
 ...and whatever I decide to build next.
