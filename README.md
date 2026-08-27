@@ -36,13 +36,6 @@
 
 ...and whatever I decide to build next.
 
-## 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuanDucate&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanDucate&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Reach me
 
 <p>
