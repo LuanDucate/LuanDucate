@@ -26,10 +26,13 @@
 
 > Naming things is hard. Prefixing them with `Ducz.` is easy.
 
-## 🦆 Ducz.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuanDucate/Ducz.Offline-IA/main/art/Branding/ducz-logo.png" alt="Ducz logo" width="220" />
+</p>
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🤖 [**Ducz.Offline-IA**](https://github.com/LuanDucate/Ducz.Offline-IA) | Local AI assistant for the desktop - install, open, chat. No account, no cloud, no setup | Rust |
 | 🎮 [**Ducz.GameEngine**](https://luanducate.github.io/Ducz.GameEngine/) | Build simple 3D maps fast, texture them with a right-click, export as GLB | C# |
 | 🧍 [**Ducz.CharacterCreator**](https://luanducate.github.io/Ducz.CharacterCreator/) | Low-poly modular character builder (Quaternius packs) | JavaScript / Three.js |
 | 🖥️ [**Ducz.LocalConnect**](https://github.com/LuanDucate/Ducz.LocalConnect) | Remote desktop between two machines on the same local network | C# / Windows |
