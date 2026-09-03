@@ -32,10 +32,10 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🤖 [**Ducz.Offline-IA**](https://github.com/LuanDucate/Ducz.Offline-IA) | Local AI assistant for the desktop - install, open, chat. No account, no cloud, no setup | Rust |
-| 🎮 [**Ducz.GameEngine**](https://luanducate.github.io/Ducz.GameEngine/) | Build simple 3D maps fast, texture them with a right-click, export as GLB | C# |
-| 🧍 [**Ducz.CharacterCreator**](https://luanducate.github.io/Ducz.CharacterCreator/) | Low-poly modular character builder (Quaternius packs) | JavaScript / Three.js |
-| 🖥️ [**Ducz.LocalConnect**](https://github.com/LuanDucate/Ducz.LocalConnect) | Remote desktop between two machines on the same local network | C# / Windows |
+|  [**Ducz.LocalConnect**](https://luanducate.github.io/Ducz.LocalConnect/) | Remote desktop between two machines on the same local network | C# / Windows |
+|  [**Ducz.Offline-IA**](https://luanducate.github.io/Ducz.Offline-IA/) | Local AI assistant for the desktop - install, open, chat. No account, no cloud, no setup | Rust |
+|  [**Ducz.GameEngine**](https://luanducate.github.io/Ducz.GameEngine/) | Build simple 3D maps fast, texture them with a right-click, export as GLB | C# |
+|  [**Ducz.CharacterCreator**](https://luanducate.github.io/Ducz.CharacterCreator/) | Low-poly modular character builder (Quaternius packs) | JavaScript / Three.js |
 
 ...and whatever I decide to build next.
 
